@@ -18,12 +18,6 @@
     </requirement>
     <requirement>
       <requirement>
-        <dependency name="rmagick" version="0" bound="GREATER_OR_EQUAL" git="false" />
-      </requirement>
-      <source from="public/stylesheets/joshuaclayton-blueprint-css-3453d72/lib/blueprint/grid_builder.rb" />
-    </requirement>
-    <requirement>
-      <requirement>
         <dependency name="sqlite3-ruby" version="1.2.5" bound="EQUAL" git="false" />
       </requirement>
       <source from="Gemfile" />
